@@ -134,11 +134,11 @@ Get the status of an email by its ID:
 
 ## ✅ Deliverables
 
-✅ Public GitHub Repo: [https://github.com/Ash1912/PearlThoughts-Assignment-email-service.git]
+✅ Public GitHub Repo: [Repo](https://github.com/Ash1912/PearlThoughts-Assignment-email-service.git)
 
 ## 🧠 Author
 
-Made with 💡 by Ashish Kumar Mishra — LinkedIn | GitHub
+Made with 💡 by Ashish Kumar Mishra — [LinkedIn] (https://www.linkedin.com/in/ashish-kumar-mishra-616321206/) | [GitHub] (https://github.com/Ash1912)
 
 ## 📄 License
 
