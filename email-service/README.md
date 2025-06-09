@@ -132,6 +132,10 @@ Get the status of an email by its ID:
 
 -Jest (unit tests)
 
+## Screenshot
+
+![image](https://github.com/user-attachments/assets/fbca9c65-de83-40cf-8168-75b7e8bd5667)
+
 ## ✅ Deliverables
 
 ✅ Public GitHub Repo: [Repo](https://github.com/Ash1912/PearlThoughts-Assignment-email-service.git)
