@@ -138,7 +138,7 @@ Get the status of an email by its ID:
 
 ## 🧠 Author
 
-Made with 💡 by Ashish Kumar Mishra — [LinkedIn] (https://www.linkedin.com/in/ashish-kumar-mishra-616321206/) | [GitHub] (https://github.com/Ash1912)
+Made with 💡 by Ashish Kumar Mishra — [LinkedIn](https://www.linkedin.com/in/ashish-kumar-mishra-616321206/) | [GitHub](https://github.com/Ash1912)
 
 ## 📄 License
 
